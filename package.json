@@ -1,0 +1,26 @@
+{
+  "name": "clio",
+  "version": "0.1.0",
+  "description": "Cloud based case management. Transforming the practice of law, for good",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clio"
+  },
+  "keywords": [
+    "law",
+    "clio",
+    "case",
+    "management",
+    "legal"
+  ],
+  "author": "Jack Newton",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
