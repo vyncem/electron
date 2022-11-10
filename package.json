@@ -21,6 +21,6 @@
   "author": "Jack Newton",
   "license": "UNLICENSED",
   "devDependencies": {
-    "electron": "^9.0.0"
+    "electron": "^18.3.7"
   }
 }
